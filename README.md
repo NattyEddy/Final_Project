@@ -2,6 +2,8 @@
 
 This was a project I did in 2021 for a program called Schulich Ignite from the University of Calgary. For our last project in our class, we were given free reign to create any game we desired through Pygame. The README file was last modified December 8, 2021 and reads as follows:
 
+-----------------------------------------------------------------------------------------------
+
 This is my final project, a scuffed version of Fruit Ninja in Pygame!
 
 In order to play the game, you must first press SPACE. As of now, the only indication that the game has started or ended is in the terminal, so have that open alongside the game. If the game ends, press SPACE again to play again. The objective is to slice as many fruit as you can, without hitting any of the rockets!
